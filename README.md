@@ -4,7 +4,7 @@
 JAwk fork
 =========
 
-This is a fork of the unmainted original [JAwk](https://jawk.sourceforge.net/main.php) libraray. 
+This is a fork of the unmaintained original [JAwk](https://jawk.sourceforge.net/main.php) library.
 
 Usage
 -----
