@@ -9,7 +9,15 @@ This is a fork of the unmaintained original [JAwk](https://jawk.sourceforge.net/
 Usage
 -----
 
-**TODO**
+Add the following dependency:
+
+```xml
+<dependency>
+  <groupId>io.github.simplicitesoftware</groupId>
+  <artifactId>jawk</artifactId>
+  <version>1.02</version>
+</dependency>
+```
 
 License
 =======
